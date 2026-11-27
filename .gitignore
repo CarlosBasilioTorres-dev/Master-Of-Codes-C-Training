@@ -1,0 +1,14 @@
+# JetBrains Rider
+.idea/
+
+# Archivos generados por .NET
+**/bin/
+**/obj/
+
+# Archivos personales de Visual Studio / .NET
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.log
